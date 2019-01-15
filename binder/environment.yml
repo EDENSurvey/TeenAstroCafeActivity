@@ -1,0 +1,6 @@
+dependencies:
+  - numpy
+  - matplotlib
+  - astropy
+  - pip:
+    - batman-package
