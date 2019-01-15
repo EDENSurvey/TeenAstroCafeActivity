@@ -27,4 +27,4 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-`TeenAstroCafeActivity` only requires python 3, numpy, matplotlib and scipy.
+`TeenAstroCafeActivity` only requires python 3, numpy, matplotlib, and batman.
