@@ -1,6 +1,6 @@
 # TeenAstroCafeActivity
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDENSurvey/TeenAstroCafeActivity.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EDENSurvey/TeenAstroCafeActivity.git/master?filepath=activity.ipynb)
 
 Transiting exoplanet activity for the Teen Astro Cafe.
 
